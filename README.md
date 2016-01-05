@@ -1,0 +1,2 @@
+# DailyRollingFileAndKeepDaysAppender
+对log4j DailyRollingFileAppender的改进，通过参数配置，可以只保留多少天的文件。
